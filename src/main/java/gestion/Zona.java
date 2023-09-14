@@ -1,5 +1,5 @@
 package gestion;
-import java.util.Arraylist;
+import java.util.ArrayList;
 import zooAnimales.Animal;
 public class Zona {
 	private String nombre;
@@ -29,7 +29,7 @@ public class Zona {
 	public Zoologico getZoo() {
 		return zoo;
 	}
-	public void setZoo() {
+	public void setZoo(Zoologico zoo) {
 		this.zoo=zoo;
 	}
 }

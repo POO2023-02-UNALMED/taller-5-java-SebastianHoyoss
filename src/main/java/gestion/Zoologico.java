@@ -1,5 +1,5 @@
 package gestion;
-import java.util.Arraylist;
+import java.util.ArrayList;
 public class Zoologico {
 	private String nombre,ubicacion;
 	private Arraylist<Zona> zonas = new Arraylist<>();
