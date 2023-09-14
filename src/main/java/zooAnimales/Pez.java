@@ -19,7 +19,7 @@ public class Pez extends Animal {
 	public String getColorEscamas() {
 		return colorEscamas;
 	}
-	public boolean getCantidadAletas() {
+	public int getCantidadAletas() {
 		return cantidadAletas;
 	}
 	public static int cantidadPeces() {

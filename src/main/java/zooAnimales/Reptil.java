@@ -19,7 +19,7 @@ public class Reptil extends Animal {
 	public String getColorEscamas() {
 		return colorEscamas;
 	}
-	public boolean getLargoCola() {
+	public int getLargoCola() {
 		return largoCola;
 	}
 	public static int cantidadReptiles() {
