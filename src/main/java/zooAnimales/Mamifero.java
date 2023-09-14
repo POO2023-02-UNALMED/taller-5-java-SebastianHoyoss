@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 public class Mamifero extends Animal {
 	public static int caballos, leones;
-	private final static ArrayList<Mamifero> mamiferos =new Arraylist<>();
+	private final static ArrayList<Mamifero> mamiferos =new ArrayList<>();
 	private boolean pelaje;
 	private int patas;
 	
